@@ -1,0 +1,8 @@
+[default]
+url = na132.salesforce.com
+username = xxxxx@gmail.com
+password = 9Z9^dfqOpCSUpDhZ
+token = pACr3ZvujdGzWF410rLuKRwk2
+client_id = 3MVG9Idf89I1t8hrZmj6TwsSNDJI8s71i2j4DzvJjKWrR64XXLTHRV4qF2dGO7SMSfRPVP3kQIts7n_k8Ust3
+client_secret = A01GF34BECF04897EA4E12EE77892C11926B050FE074F52462FDC841B913EB54
+output_path = C:\salesforce_logs
